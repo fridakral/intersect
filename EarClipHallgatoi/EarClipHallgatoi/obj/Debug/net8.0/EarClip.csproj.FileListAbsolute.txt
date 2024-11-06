@@ -1,0 +1,17 @@
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\EarClip.exe
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\EarClip.deps.json
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\EarClip.runtimeconfig.json
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\EarClip.dll
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\EarClip.pdb
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.AssemblyInfoInputs.cache
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.AssemblyInfo.cs
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.csproj.CoreCompileInputs.cache
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.dll
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\refint\EarClip.dll
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.pdb
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.genruntimeconfig.cache
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\ref\EarClip.dll
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\bin\Debug\net8.0\NetTopologySuite.dll
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.csproj.AssemblyReference.cache
+C:\Users\koczo\Documents\geoinformatika\Geoinfo_msc\3_felev\prog_modszertan\EarClipHallgatoi_2024_10_21\EarClipHallgatoi\obj\Debug\net8.0\EarClip.csproj.Up2Date

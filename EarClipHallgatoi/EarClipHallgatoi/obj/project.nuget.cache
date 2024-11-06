@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJVJKs705OA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\koczo\\Documents\\geoinformatika\\Geoinfo_msc\\3_felev\\prog_modszertan\\EarClipHallgatoi_2024_10_21\\EarClipHallgatoi\\EarClip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\koczo\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\koczo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
